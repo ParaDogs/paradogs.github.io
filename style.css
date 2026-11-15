@@ -77,3 +77,7 @@ h2 {
     color: var(--text-details-color);
     font-size: small;
 }
+
+.donat-qr {
+    width: 250px;
+}
